@@ -7,8 +7,12 @@
         "id": "0e037bbbad47affb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "무제노트.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제노트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +89,9 @@
   },
   "active": "0e037bbbad47affb",
   "lastOpenFiles": [
-    "무제노트 1.md",
     "무제노트.md",
     "회의록.md",
+    "무제노트 1.md",
     "python hashtable.md",
     "javascript map.md",
     "Pasted image 20220502163806.png.md",
