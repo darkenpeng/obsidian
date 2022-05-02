@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "435c5edd731a107c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e037bbbad47affb",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73ff8d027adb6ea9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a3b49503d1b53a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "884cad76a34203c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c45bad41d73ecdaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "109d0d5617d1d5f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b0423f6de44349d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db4f7a4ee4687fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e037bbbad47affb",
+  "lastOpenFiles": [
+    "무제노트.md",
+    "회의록.md",
+    "python hashtable.md",
+    "javascript map.md",
+    "Pasted image 20220502163806.png.md",
+    "Pasted image 20220502125355.png.md"
+  ]
+}
