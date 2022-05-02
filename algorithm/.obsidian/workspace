@@ -7,7 +7,7 @@
         "id": "0e037bbbad47affb",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,6 +84,7 @@
   },
   "active": "0e037bbbad47affb",
   "lastOpenFiles": [
+    "무제노트 1.md",
     "무제노트.md",
     "회의록.md",
     "python hashtable.md",
