@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "스터디 운영로그/할일 하지만 당장은 아닌.md",
+            "file": "위장.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스터디 운영로그/할일 하지만 당장은 아닌.md",
+                "file": "위장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "37293519dcfa05bc",
   "lastOpenFiles": [
-    "스터디 운영로그/할일 하지만 당장은 아닌.md",
     "위장.md",
-    "완주하지 못한 선수.md",
-    "무제노트.md",
-    "스터디 운영로그/블블프로페써와회의록정리.md",
-    "스터디 운영로그/블블프로페써와회의록0505.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20220506230701 1.png",
+    "Pasted image 20220510171613.png",
     "Pasted image 20220506230701.png",
-    "Pasted image 20220504224045.png"
+    "Pasted image 20220504224045.png",
+    "CS/무제노트.md",
+    "스터디 운영로그/블블프로페써와회의록정리0505.md",
+    "스터디 운영로그/블블프로페써와회의록0505.md",
+    "스터디 운영로그/할일 하지만 당장은 아닌.md",
+    "python hashtable.md",
+    "Pasted image 20220502164041.png.md"
   ]
 }
