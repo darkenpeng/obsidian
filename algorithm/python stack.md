@@ -21,8 +21,6 @@
 ```javascript
 //reference https://www.geeksforgeeks.org/implementation-stack-javascript/
 
-//reference https://www.geeksforgeeks.org/implementation-stack-javascript/
-
 class Stack {
 	// Array is used to implement stack
 	constructor() {
@@ -65,11 +63,8 @@ class Stack {
 }
 ```
 
-
-```
-
 #### Array를 이용해 직접 구현하기
-```Javascript
+```javascript
 var stack = [];
 
 //put value on top of stack
@@ -81,11 +76,11 @@ var value = stack.pop();
 
 ### [Javascript] 큐 구현
 ```
-- Library 사용
+- 라이브러리 사용
 - Array를 이용해 직접 구현하기
 ```
 
-- #### - 라이브러리 사용
+#### - 라이브러리 사용
 아래의 라이브러리는 단순한 예시입니다.
 openbase라는 웹사이트에서 1.1k의 다운로드 수를 가진 라이브러리를 가져왔을 뿐, 반드시 이 라이브러리를 사용해야 한다는 의미는 아닙니다!
 `Reference` : 
@@ -130,7 +125,7 @@ JS에서 배열, python에서 리스트는 가변길이 (각각의 element가 �
 `Reference`
 : 파이썬 알고리즘 인터뷰
 `Implementation`
-```python3
+```python
 
 class Node:
 	def _init_(self, item, next):
