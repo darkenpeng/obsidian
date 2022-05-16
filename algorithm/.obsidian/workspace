@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "위장.md",
+            "file": "python stack.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353
+    "width": 439
   },
   "right": {
     "id": "109d0d5617d1d5f1",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "위장.md",
+                "file": "python stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "37293519dcfa05bc",
   "lastOpenFiles": [
-    "위장.md",
-    "Pasted image 20220510171613.png",
-    "Pasted image 20220506230701.png",
+    "python stack.md",
+    "javascript map.md",
+    "Pasted image 20220510171646.png",
     "Pasted image 20220504224045.png",
-    "CS/무제노트.md",
+    "Pasted image 20220516184153.png",
+    "python hashtable.md",
+    "Pasted image 20220506230701.png",
     "스터디 운영로그/블블프로페써와회의록정리0505.md",
     "스터디 운영로그/블블프로페써와회의록0505.md",
-    "스터디 운영로그/할일 하지만 당장은 아닌.md",
-    "python hashtable.md",
-    "Pasted image 20220502164041.png.md"
+    "스터디 운영로그/할일 하지만 당장은 아닌.md"
   ]
 }
