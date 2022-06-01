@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "algorithm-study-log/할일 하지만 당장은 아닌.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "algorithm-study-log/할일 하지만 당장은 아닌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b005e287f649e3af",
   "lastOpenFiles": [
+    "algorithm-study-log/할일 하지만 당장은 아닌.md",
+    "algorithm-study-log/블블프로페써와회의록정리0505.md",
+    "algorithm-study-log/블블프로페써와회의록0505.md",
     "README.md",
     "algorithm-study-log/회의록.md",
     "algorithm-study-log/README.md",
     "CS스터디 정리본/운영체제.md",
     "algorithm/완주하지 못한 선수.md",
     "algorithm/위장.md",
-    "algorithm/DataStructure-Hashtable.md",
-    "algorithm/Pasted image 20220516184153.png",
-    "algorithm/leet 347 top k frequent elements (상위 k개 요소).md",
-    "algorithm/DataStructure-Stack&Queue.md"
+    "algorithm/DataStructure-Hashtable.md"
   ]
 }
