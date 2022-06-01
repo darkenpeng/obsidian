@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "435c5edd731a107c",
+    "id": "2ffb52b5327ead6a",
     "type": "split",
     "children": [
       {
-        "id": "37293519dcfa05bc",
+        "id": "b005e287f649e3af",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "73ff8d027adb6ea9",
+    "id": "f8d4836d3af84fc8",
     "type": "split",
     "children": [
       {
-        "id": "2a3b49503d1b53a3",
+        "id": "26aadc85f5592ea1",
         "type": "tabs",
         "children": [
           {
-            "id": "884cad76a34203c7",
+            "id": "8a479c2e381e87be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "c45bad41d73ecdaf",
+            "id": "a9924c5fa726ef64",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,22 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 426
+    "width": 300
   },
   "right": {
-    "id": "109d0d5617d1d5f1",
+    "id": "450a5817b219e375",
     "type": "split",
     "children": [
       {
-        "id": "5b0423f6de44349d",
+        "id": "c9822c6f38436c13",
         "type": "tabs",
         "children": [
           {
-            "id": "9db4f7a4ee4687fc",
+            "id": "f81d989f32347b43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37293519dcfa05bc",
+  "active": "b005e287f649e3af",
   "lastOpenFiles": [
-    "스터디 운영로그/블블프로페써와회의록정리0505.md",
-    "무제노트.md",
-    "Pasted image 20220504224045.png",
-    "스터디 운영로그/할일 하지만 당장은 아닌.md",
-    "Pasted image 20220506230701.png",
-    "완주하지 못한 선수.md",
-    "3회차 - 네트워크.md",
-    "위장.md",
-    "회의록.md",
-    "leet 20 유효한 괄호(stack).md"
+    "README.md",
+    "algorithm-study-log/회의록.md",
+    "algorithm-study-log/README.md",
+    "algorithm/CS스터디 정리본/운영체제.md",
+    "algorithm/완주하지 못한 선수.md",
+    "algorithm/위장.md",
+    "algorithm/DataStructure-Hashtable.md",
+    "algorithm/Pasted image 20220516184153.png",
+    "algorithm/leet 347 top k frequent elements (상위 k개 요소).md",
+    "algorithm/DataStructure-Stack&Queue.md"
   ]
 }
