@@ -1,5 +1,4 @@
 # Map이 뭔데요?
-> 
 > 객체 – 키가 있는 컬렉션을 저장함
 > 배열 – 순서가 있는 컬렉션을 저장함
 	하지만 현실 세계를 반영하기엔 이 두 자료구조 만으론 부족해서 `맵(Map)`과 `셋(Set)`이 등장하게 되었다.
@@ -103,7 +102,8 @@ stones.match(RegExp로 생성된 객체)가 string.match를 실행하고 나서 
 JS 내장객체 RegExp에 대해서는 요즘 읽고 있는 You don't know JS(예제가 웃겨 미치겠음)에서 일요일에 첨봤는데(존재만 앎) 그래도 사용법을 몰라서 MDN을 까보았다~
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/RegExp/RegExp
 
-## [구문](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/RegExp/RegExp#%EA%B5%AC%EB%AC%B8 "Permalink to 구문")
+## [구문]
+(https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/RegExp/RegExp#%EA%B5%AC%EB%AC%B8 "Permalink to 구문")
 
 리터럴, 생성자, 팩토리 표기법이 가능합니다.
 ```javascript
@@ -114,7 +114,8 @@ RegExp(pattern[, flags])
 ```
 이제 저 패턴과 flags가 뭔지 알아보자.
 
-### [매개변수](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/RegExp/RegExp#%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98 "Permalink to 매개변수")
+### [매개변수]
+(https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/RegExp/RegExp#%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98 "Permalink to 매개변수")
 
 `pattern`
 
