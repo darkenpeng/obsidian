@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "programmers 직사각형 별찍기.md",
+            "file": "leet 20 valid parentheses.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmers 직사각형 별찍기.md",
+                "file": "leet 20 valid parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b005e287f649e3af",
   "lastOpenFiles": [
-    "programmers 직사각형 별찍기.md",
-    "algorithm/programmers 완주하지 못한 선수.md",
-    "algorithm/programmers 위장.md",
-    "algorithm/Pasted image 20220516184416.png",
-    "algorithm/Pasted image 20220516184340.png",
+    "leet 20 valid parentheses.md",
+    "leet 215 배열의 k번째 큰 요소(Kth Largest Element in an Array).md",
+    "leet 739 daily temperature(일일온도).md",
+    "leet 771 jewels and stones (보석과 돌).md",
     "algorithm/Pasted image 20220516184303.png",
-    "algorithm/Pasted image 20220510171646.png",
-    "algorithm/Pasted image 20220504224045.png",
-    "algorithm/Pasted image 20220506230701.png",
-    "algorithm/leet 347 top k frequent elements (상위 k개 요소).md"
+    "programmers 평균 구하기.md",
+    "programmers x만큼 간격이 있는 n개의 숫자.md",
+    "algorithm/DataStructure-Map.md",
+    "algorithm/DataStructure-Stack&Queue.md",
+    "programmers 직사각형 별찍기.md"
   ]
 }
