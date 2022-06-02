@@ -7,11 +7,8 @@
         "id": "b005e287f649e3af",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "algorithm-study-log/220505 회의록 with nibble(private).md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm-study-log/220505 회의록 with nibble(private).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,8 @@
   },
   "active": "b005e287f649e3af",
   "lastOpenFiles": [
+    "programmers 다리를 지나는 트럭.md",
+    "algorithm/programmers 위장.md",
     "algorithm-study-log/220505 회의록 with nibble(private).md",
     "algorithm-study-log/220425 회의공지(public).md",
     "algorithm-study-log/220312 방향성 공지(public).md",
@@ -95,8 +93,6 @@
     "algorithm-study-log/메모 할일 하지만 당장은 아닌(private).md",
     "algorithm-study-log/220505 회의록(public).md",
     "algorithm-study-log/220427 회의록(public).md",
-    "CS-study/03 운영체제.md",
-    "algorithm/programmers 완주하지 못한 선수.md",
-    "algorithm/programmers 위장.md"
+    "CS-study/03 운영체제.md"
   ]
 }
