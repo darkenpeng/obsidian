@@ -28,8 +28,6 @@ function solution(jobs) {
 
 		}
 
-  
-
 	}
 
 	return Math.floor( accumulated / N)
