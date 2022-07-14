@@ -1,4 +1,4 @@
 # Obsidian-Github
- 옵시디언 마크다운 연동안되서 빡쳐서 찾아본방법
- 
-알고보니 내가 그냥잘못쓴거였음
+# Notion
+- 설명 : 노션을 사용해서  스터디 분들의 풀이를 공유합니다.
+- 링크 : https://dawn-bulb-f4b.notion.site/059712e44d984dedb1210e5ece79a4cd?v=da1df08452a143f89e744f13f02c59f9
