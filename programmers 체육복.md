@@ -36,3 +36,30 @@ function getCandidate(students) {
 테스트 19 〉	통과 (0.12ms, 30.1MB)
 테스트 20 〉	통과 (0.10ms, 30.1MB)
 ```
+
+# 2트
+```jsx
+function solution(n, lost, reserve) {
+  const realLost = lost.filter((student)=> !reserve.includes(student)) //[2,4]
+  const candidate = getCandidate(realLost);//[1,3,5]
+  const realReserve = reserve.filter((student)=> !lost.includes(student)) //[3]
+  const rent = realReserve.filter((student) => candidate.includes(student)); //[1,3,5]
+  if (rent.length >= realLost.length) {
+    return n;
+  } else {
+    return n - realLost.length + rent.length;
+  }
+}
+
+function getCandidate(students) {
+    const arr = [];
+    for (let i = 0; i<students.length; i++){
+        arr.push(students[i]+1, students[i]-1)
+    }
+    return [...new Set(arr)];
+}
+
+const n = 5;
+const lost = [2, 4, 5]; [1,3,5, 4,6]
+const reserve = [3, 5];
+```
