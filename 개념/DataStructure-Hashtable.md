@@ -3,6 +3,7 @@
 
 아 시간복잡도 앞에서 읽었어야 하는데 안읽어서 모르겠고 일단 깐쫄하다는 건 알겠음
 나중에 필요하면 시간복잡도도 공부해봐야지 (도대체 언제?) 대충뭔진알겠는데 이 알고리즘의 시간복잡도를 구하라! 하면 못구하겠음
+`update` => 이제 몇개는 대 충 알겟음
 무튼 데이터 양에 관계 없이 빠른 성능을 기대할 수 있다는 장점이 있단다. 시간복잡도가 O(1)이니까~
 
 >해시 함수란 임의의 크기 데이터를 고정 크기 값으로 매핑하는 데 사용할 수 있는 함수를 말한다.
@@ -85,3 +86,22 @@ AF32B -> D5
 
 파이썬과 루비는 오픈어드레싱 방식으로 해시테이블을 구현했다고 한다~
 C++이나 자바, 고는 개별 체이닝이라고 한다
+
+
+
+---
+7.12 update
+# Object VS Map in JS
+## Chrome status
+https://stackoverflow.com/questions/18541940/map-vs-object-in-javascript
+
+> Map objects are collections of key/value pairs where both the keys and values may be arbitrary ECMAScript language values. A distinct key value may only occur in one key/value pair within the Map’s collection. Distinct key values as discriminated using the a comparision algorithm that is selected when the Map is created.
+
+> A Map object can iterate its elements in insertion order. Map object must be implemented using either hash tables or other mechanisms that, on average, provide access times that are sublinear on the number of elements in the collection. The data structures used in this Map objects specification is only intended to describe the required observable semantics of Map objects. It is not intended to be a viable implementation model.
+
+
+## MDN
+
+> A Map object can iterate its elements in insertion order - a `for..of` loop will return an array of [key, value] for each iteration.
+
+
