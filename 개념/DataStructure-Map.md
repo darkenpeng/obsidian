@@ -144,7 +144,7 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/St
 
 ## 직님의 파이썬 풀이
 직님처럼 명령형과 파이썬을 잘하는 사람이 되고 싶다~
-```python3
+```python
 # jewels에 있는 글자와 stones에 있는 글자를 하나하나 비교하여(이중 for문) 
 # 비교하고, 같으면 cnt++하여 cnt를 정답으로 리턴했다 
 class Solution:
