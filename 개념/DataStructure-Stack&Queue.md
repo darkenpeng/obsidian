@@ -37,41 +37,41 @@ class Stack {
 	// return top most element in the stack
 	// and removes it from the stack
 	// Underflow if stack is empty
-	if (this.items.length == 0) return "Underflow";
-	return this.items.pop();
+		if (this.items.length == 0) return "Underflow";
+			return this.items.pop();
 	}
 	
 	// peek()
 	peek() {
 	// return the top most element from the stack
 	// but does'nt delete it.
-	return this.items[this.items.length - 1];
+		return this.items[this.items.length - 1];
 	}
 
 	// isEmpty()
 	isEmpty() {
 	// return true if stack is empty
-	return this.items.length == 0;
+		return this.items.length == 0;
 	}
 
 	// printStack()
 	printStack() {
-	var str = "";
-	for (var i = 0; i < this.items.length; i++) str += this.items[i] + " ";
-	return str;
+	const str = "";
+	for (let i = 0; i < this.items.length; i++) str += this.items[i] + " ";
+		return str;
 	}
 }
 ```
 
 #### Array를 이용해 직접 구현하기
 ```javascript
-var stack = [];
+const stack = [];
 
 //put value on top of stack
 stack.push(1);
 
 //remove value from top of stack
-var value = stack.pop();
+const value = stack.pop();
 ```
 
 ### [Javascript] 큐 구현
