@@ -21,42 +21,42 @@
 그냥 브라우저 콘솔에 찍어보면서 연습하겠어요
 
 ```javascript
-const map = new Map();
-//undefined
-map.get("first")
-//undefined
-map.set("first", 1)
-//Map(1) {'first' => 1}
-map.set("second", map.get("first") +1)
-//Map(2) {'first' => 1, 'second' => 2}
-map.set("third", map.get("first") +1)
-//Map(3) {'first' => 1, 'second' => 2, 'third' => 2}
-map.set("third", map.get("first") +1)
-//Map(3) {'first' => 1, 'second' => 2, 'third' => 2}
-map.set("third", map.get("second") +1)
-//Map(3) {'first' => 1, 'second' => 2, 'third' => 3}
-map.has("first")
-//true
-map.values()
-//MapIterator {1, 2, 3}
-map.keys
-//ƒ keys() { [native code] }
-map.keys()
-//MapIterator {'first', 'second', 'third'}
-map.size()
-//VM946:1 Uncaught TypeError: map.size is not a function
-//  at <anonymous>:1:5
-//(anonymous) @ VM946:1
-map.size
-3
-map.delete("third")
-//true
-map
-//Map(2) {'first' => 1, 'second' => 2}
-map.clear()
-//undefined
-map
-//Map(0) {size: 0}
+	const map = new Map();
+	//undefined
+	map.get("first")
+	//undefined
+	map.set("first", 1)
+	//Map(1) {'first' => 1}
+	map.set("second", map.get("first") +1)
+	//Map(2) {'first' => 1, 'second' => 2}
+	map.set("third", map.get("first") +1)
+	//Map(3) {'first' => 1, 'second' => 2, 'third' => 2}
+	map.set("third", map.get("first") +1)
+	//Map(3) {'first' => 1, 'second' => 2, 'third' => 2}
+	map.set("third", map.get("second") +1)
+	//Map(3) {'first' => 1, 'second' => 2, 'third' => 3}
+	map.has("first")
+	//true
+	map.values()
+	//MapIterator {1, 2, 3}
+	map.keys
+	//ƒ keys() { [native code] }
+	map.keys()
+	//MapIterator {'first', 'second', 'third'}
+	map.size()
+	//VM946:1 Uncaught TypeError: map.size is not a function
+	//  at <anonymous>:1:5
+	//(anonymous) @ VM946:1
+	map.size
+	3
+	map.delete("third")
+	//true
+	map
+	//Map(2) {'first' => 1, 'second' => 2}
+	map.clear()
+	//undefined
+	map
+	//Map(0) {size: 0}
 
 ```
 아놔 프로퍼티인데 메서드인줄알고 소괄호 붙여서 굳이 reference error내기
