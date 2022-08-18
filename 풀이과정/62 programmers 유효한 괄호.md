@@ -95,3 +95,22 @@ function solution(s){
 테스트 1 〉	통과 (8.04ms, 35.4MB)
 테스트 2 〉	통과 (7.53ms, 35.1MB)
 ```
+
+8/17다시풂
+```js
+function solution(s){
+    const stack =[];
+    if (s[0] == ')'){
+      return false;  
+    } 
+    for(const c of s){
+        if( c === '('){
+            stack.push(c)
+        }
+        if(c===')'){
+            stack.pop()
+        }
+    }
+    return stack.length === 0 ? true : false
+}
+```
