@@ -1,7 +1,6 @@
 # Obsidian-Github
 # 알고리즘 스터디 기록용 레포
 - 설명 : 노션을 사용해서 스터디 분들의 풀이를 공유합니다.
-- 개인용 노션 : https://www.notion.so/algorithm-storage/c91a67ad251f49f59a7d28aeb41e0cde?v=faee4674eebc42c4a3d5229526576d8f
 - ABOUT 알고리즘 스터디
 	- **스터디 시간** 화,목,토 10PM
 	- **장소** #연습해요 음성채널
